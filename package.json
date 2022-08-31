@@ -1,7 +1,5 @@
 {
   "scripts": {
-    "start": "vite",
-    "build": "vite build",
     "watch-css": "npx tailwindcss -i ./src/styles.css -o ./public/styles.css --watch",
     "prod" : "npx tailwindcss -i ./src/styles.css -o ./public/styles.css"
   },
