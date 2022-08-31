@@ -1,1 +1,1 @@
-{"scripts":{"start":"vite","build":"vite build","watch-css":"npx tailwindcss -i ./src/styles.css -o ./public/styles.css --watch"},"devDependencies":{"tailwindcss":"^3.1.8","vite":"^3.0.9"}}
+{"scripts":{"start":"vite","build":"vite build","watch-css":"npx tailwindcss -i ./src/styles.css -o ./public/styles.css --watch"},"devDependencies":{"tailwindcss":"^3.1.8","vite":"^3.0.9"},"dependencies":{"tailwind-scrollbar-hide":"^1.1.7"}}
